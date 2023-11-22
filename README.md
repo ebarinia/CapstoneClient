@@ -16,7 +16,10 @@ On WWW, a user is able to create an account (or log in if already registered) an
 Like mentioned above, our app runs on a Spring Boot back-end server connected to a PostgreSQL database in order to store our data. 
 
 For the front-end, we have built our application with React and SassyCSS. Additionally, we are also using Firebase real-time database and storage in order to store our images and new account details. 
-Firebase is also used for Authentication/Authorisation, as well as for the live-chat (with the use of Snapshots).
+
+One of the standout features we've implemented is the live-chat functionality, seamlessly integrated using Snapshots within Firebase. This facilitates real-time communication, enabling our users to engage effortlessly.
+
+This tech stack fusion enables us to deliver a seamless, secure, and feature-rich application, ensuring optimal performance and user satisfaction at every turn.
 
 
 ## How to get started?
