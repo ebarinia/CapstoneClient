@@ -1,3 +1,6 @@
+![Wiggle Waggy Walks](https://github.com/ebarinia/CapstoneClient/assets/46579070/40e88575-a88e-4dae-a147-c1d292b95c1e)[YouTube Demo](https://youtu.be/ehOk06gWH44)
+
+
 # Wiggle Waggy Walks
 
 Welcome to our capstone project for CodeClan software development course: Wiggle Waggy Walks!
