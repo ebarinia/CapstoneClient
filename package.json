@@ -2,6 +2,7 @@
   "name": "capstone_frontend",
   "version": "0.1.0",
   "proxy": "http://81.79.213.157:8080/",
+  "homepage": "https://ebarinia.github.io/CapstoneClient",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -31,7 +32,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -52,6 +55,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.1.0",
     "react-router-dom": "^6.18.0"
   }
 }
